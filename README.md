@@ -1,7 +1,7 @@
 # browser_zipit
 This is an example of using a ZIP archive to serve tiles. It closely follows the 
 [OpenSeadragon custom tilesource example](https://openseadragon.github.io/examples/tilesource-custom/)
-and draws on a json syntax creates by [OurDigitalWorld](https://ourdigitalworld.org/) to identify
+and draws on a json syntax created by [OurDigitalWorld](https://ourdigitalworld.org/) to identify
 byte-ranges to extract content. The values are mostly self-explanatory:
 ```
 {
