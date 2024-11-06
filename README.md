@@ -32,7 +32,7 @@ associate image snippets with OCR. To replicate the setup, the files here need t
 a web folder. The key value is in _index.html_ where the _BASE_URL_ is defined:
 ```
     <script type="text/javascript">
-        var BASE_URL = "https://collections.uwindsor.ca/login";
+        var BASE_URL = "https://ourontario.ca/downloads";
     </script>
 ```
 In order to avoid CORS headaches between http and https access, OpenSeadragon is defined as a
