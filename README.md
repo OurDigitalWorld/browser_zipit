@@ -41,4 +41,5 @@ local installation in _index.js_. The distribution can be found on the
 can pull from a CDN.
 
 IIIF viewers use OpenSeadragon for tile handling, and the idea is that this would be some of
-the needed plumbing for a ZIP implementation.
+the needed plumbing for a ZIP implementation. The ZIP archives used are created with the
+[odwHocrBlockIiif](https://github.com/OurDigitalWorld/odwHocrBlockIiif) python script.
